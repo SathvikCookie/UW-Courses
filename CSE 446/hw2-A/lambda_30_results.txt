@@ -1,0 +1,5 @@
+For lambda = 30:
+Feature with largest positive coefficient: PctIlleg
+Value: 0.0708244076769545
+Feature with largest negative coefficient: PctKids2Par
+Value: -0.05979269841300179
